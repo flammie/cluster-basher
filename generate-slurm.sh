@@ -1,7 +1,7 @@
 #!/bin/bash
 # modified from original DCU script by ...?
 
-JOBSDIR=$HOME/pbs/jobs/
+JOBDIR=$HOME/slurm/jobs/
 PPN=1
 MEM=$((16*1024))
 TIME=24
